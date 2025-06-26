@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <h3 align="left">🔭 I’m currently working on...</h3>
 <ul>
-  <a href="https://github.com/ValentinMarchessi/training-app-client">A group project aimed at connecting people with personal trainers and nutritionists</a></li>
+ <p>a SaaS CRM for agents at Universidad Kuepa used to manage and follow leads</p>
 </ul>
 <h3 align="left">📫 How to reach me:</h3>
 <ul>
