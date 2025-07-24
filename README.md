@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ### Hi there 👋 I'm Valentín
 
-I'm a front-end developer with a passion for building scalable, user-focused web apps—especially in the education space. I currently work at a university developing AI-enhanced platforms to support remote learning and student engagement.
+I'm a front-end developer with a passion for building scalable, user-focused web apps—especially in the education space. I currently work at Universidad Kuepa developing AI-enhanced platforms to support remote learning and student engagement.
 
 🚀 I'm focused on:
 - Developing a CRM SaaS for managing student leads and enrollment processes
